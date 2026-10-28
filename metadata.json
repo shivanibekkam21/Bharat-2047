@@ -1,0 +1,7 @@
+{
+  "name": "Bharat 2047: Regional Development & Opportunity Intelligence",
+  "description": "AI/ML-powered regional decision-support platform for India: K-means clustering, development scoring, opportunity ranking, skills mapping, and 2047 scenario simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
